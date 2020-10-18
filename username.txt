@@ -1,0 +1,10 @@
+username
+Ab2@
+max
+address
+2002-06-21 00:00:00
+1
+ Action Drama
+movie_liked
+movie_disliked
+
