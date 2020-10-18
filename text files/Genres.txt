@@ -1,0 +1,13 @@
+Horror
+Action
+Sci-Fi
+Romance
+Thriller
+Drama
+Fantasy
+Family
+Musical
+Comedy
+Biography
+History
+Adventure
