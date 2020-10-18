@@ -1,7 +1,0 @@
-Action Adventure Sci-Fi    		genres		0
-7.9					imdb rating	1
-Felicity Jones,Diego Luna,Alan Tudyk	actors		2
-Gareth Edwards				directors	3
-PG-13					age rating	4
-The Rebel Alliance makes a risky move to steal the plans \n for the Death Star, setting up the epic saga to follow.
-2.13					length		6
