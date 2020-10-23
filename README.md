@@ -4,4 +4,4 @@ You can like movies, dislike movies, change your information etc.
 
 Based on your selection, you can click on the a button which opens a new window that recommends you movies based on your previous selections.
 
-All 
+All of the code is commented.
